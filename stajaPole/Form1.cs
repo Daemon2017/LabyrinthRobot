@@ -319,6 +319,7 @@ namespace stajaPole
         {
             for (int sharNumber = 0; sharNumber < numberOfDrones; sharNumber++)
             {
+
                 //Стараемся двигаться к вершинам графов
                 #region 
                 for (int i = 0; i < zadanijaMatrix.Length; i++)
