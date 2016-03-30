@@ -1,0 +1,8 @@
+C:\Users\Daemon\Documents\Visual Studio 2013\Projects\stajaPole\stajaPole\bin\Debug\stajaPole.exe
+C:\Users\Daemon\Documents\Visual Studio 2013\Projects\stajaPole\stajaPole\bin\Debug\stajaPole.pdb
+C:\Users\Daemon\Documents\Visual Studio 2013\Projects\stajaPole\stajaPole\obj\Debug\stajaPole.csprojResolveAssemblyReference.cache
+C:\Users\Daemon\Documents\Visual Studio 2013\Projects\stajaPole\stajaPole\obj\Debug\stajaPole.Form1.resources
+C:\Users\Daemon\Documents\Visual Studio 2013\Projects\stajaPole\stajaPole\obj\Debug\stajaPole.Properties.Resources.resources
+C:\Users\Daemon\Documents\Visual Studio 2013\Projects\stajaPole\stajaPole\obj\Debug\stajaPole.csproj.GenerateResource.Cache
+C:\Users\Daemon\Documents\Visual Studio 2013\Projects\stajaPole\stajaPole\obj\Debug\stajaPole.exe
+C:\Users\Daemon\Documents\Visual Studio 2013\Projects\stajaPole\stajaPole\obj\Debug\stajaPole.pdb
