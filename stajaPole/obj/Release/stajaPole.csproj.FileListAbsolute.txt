@@ -1,0 +1,8 @@
+C:\Users\Daemon\Documents\GitHub\LabyrinthRobot\stajaPole\bin\Release\stajaPole.exe
+C:\Users\Daemon\Documents\GitHub\LabyrinthRobot\stajaPole\bin\Release\stajaPole.pdb
+C:\Users\Daemon\Documents\GitHub\LabyrinthRobot\stajaPole\obj\Release\stajaPole.csprojResolveAssemblyReference.cache
+C:\Users\Daemon\Documents\GitHub\LabyrinthRobot\stajaPole\obj\Release\stajaPole.Form1.resources
+C:\Users\Daemon\Documents\GitHub\LabyrinthRobot\stajaPole\obj\Release\stajaPole.Properties.Resources.resources
+C:\Users\Daemon\Documents\GitHub\LabyrinthRobot\stajaPole\obj\Release\stajaPole.csproj.GenerateResource.Cache
+C:\Users\Daemon\Documents\GitHub\LabyrinthRobot\stajaPole\obj\Release\stajaPole.exe
+C:\Users\Daemon\Documents\GitHub\LabyrinthRobot\stajaPole\obj\Release\stajaPole.pdb

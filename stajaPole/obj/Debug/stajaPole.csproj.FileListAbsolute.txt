@@ -6,3 +6,5 @@ C:\Users\Daemon\Documents\Visual Studio 2013\Projects\stajaPole\stajaPole\obj\De
 C:\Users\Daemon\Documents\Visual Studio 2013\Projects\stajaPole\stajaPole\obj\Debug\stajaPole.csproj.GenerateResource.Cache
 C:\Users\Daemon\Documents\Visual Studio 2013\Projects\stajaPole\stajaPole\obj\Debug\stajaPole.exe
 C:\Users\Daemon\Documents\Visual Studio 2013\Projects\stajaPole\stajaPole\obj\Debug\stajaPole.pdb
+C:\Users\Daemon\Documents\GitHub\LabyrinthRobot\stajaPole\obj\Debug\stajaPole.exe
+C:\Users\Daemon\Documents\GitHub\LabyrinthRobot\stajaPole\obj\Debug\stajaPole.pdb
